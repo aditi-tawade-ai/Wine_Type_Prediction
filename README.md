@@ -22,8 +22,8 @@ The project uses **Logistic Regression**, a supervised machine learning classifi
 Wine-Logistic-Regression/
 │
 ├── wine_dataset.csv
-├── wine(3).pkl
-├── scaler(2).pkl
+├── wine.pkl
+├── scaler.pkl
 ├── app.py
 ├── requirements.txt
 └── README.md
