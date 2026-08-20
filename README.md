@@ -189,10 +189,10 @@ The trained Logistic Regression model and scaler are saved using **Pickle**.
 ```python
 import pickle
 
-with open("wine(3).pkl", "wb") as file:
+with open("wine.pkl", "wb") as file:
     pickle.dump(model, file)
 
-with open("scaler(2).pkl", "wb") as file:
+with open("scaler.pkl", "wb") as file:
     pickle.dump(scaler, file)
 ```
 
