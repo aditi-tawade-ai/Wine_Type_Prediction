@@ -34,8 +34,8 @@ Wine-Logistic-Regression/
 | File               | Description                             |
 | ------------------ | --------------------------------------- |
 | `wine_dataset.csv` | Wine dataset used for training/testing  |
-| `wine(3).pkl`      | Trained Logistic Regression model       |
-| `scaler(2).pkl`    | StandardScaler used for feature scaling |
+| `wine.pkl`      | Trained Logistic Regression model       |
+| `scaler.pkl`    | StandardScaler used for feature scaling |
 | `app.py`           | Streamlit application for prediction    |
 | `requirements.txt` | Required Python libraries               |
 | `README.md`        | Project documentation                   |
